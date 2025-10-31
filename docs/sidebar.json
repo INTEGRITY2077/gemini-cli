@@ -9,6 +9,10 @@
       {
         "label": "Architecture Overview",
         "slug": "docs/architecture"
+      },
+      {
+        "label": "Chat Interface Overview",
+        "slug": "docs/chat-interface-overview"
       }
     ]
   },
