@@ -4,6 +4,10 @@ slug: chat-interface-overview
 ---
 
 > **문서 링크**: https://geminicli.com/docs/chat-interface-overview
+>
+> **전체 코드 스냅샷은?** `docs/chat-interface-source/` 폴더에서 모든 관련
+> TypeScript 파일을 Markdown으로 복사해 두었으니, 브라우저에서 바로 열어 전체
+> 내용을 복사할 수 있습니다.
 
 # Gemini CLI 대화 인터페이스 개요
 
