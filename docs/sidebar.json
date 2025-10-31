@@ -9,6 +9,14 @@
       {
         "label": "Architecture Overview",
         "slug": "docs/architecture"
+      },
+      {
+        "label": "Chat Interface Overview",
+        "slug": "docs/chat-interface-overview"
+      },
+      {
+        "label": "Chat Interface Source Snapshots",
+        "slug": "docs/chat-interface-source"
       }
     ]
   },
